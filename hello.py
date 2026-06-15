@@ -1,3 +1,3 @@
 print("Hello, World!")
-print("Welcome to Python")
+print("Welcome To Python")
 print("I am learning Data Analytics")
