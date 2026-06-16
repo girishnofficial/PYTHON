@@ -44,3 +44,21 @@ print(a-b)
 print(a/b)
 print(a*b)
 print(a//b)
+
+
+
+
+What I Learned
+
+In this lesson, I learned the fundamentals of Python programming, including how to create and use variables to store data. I explored Python's variable naming rules and understood the importance of writing valid and meaningful variable names. I also learned about the basic data types such as integers, floating-point numbers, strings, and boolean values.
+
+Additionally, I practiced type conversion techniques to change data from one type to another when required. The lesson also introduced arithmetic operators, enabling me to perform mathematical calculations such as addition, subtraction, multiplication, division, modulus, floor division, and exponentiation. These concepts form the foundation for writing and understanding Python programs.
+
+Concepts Covered
+
+- Variables
+- Variable Naming Rules
+- Data Types (int, float, str, bool)
+- Type Conversion
+- Arithmetic Operators
+- Basic Python Syntax
