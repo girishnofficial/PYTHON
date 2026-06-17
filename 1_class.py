@@ -61,4 +61,4 @@ Concepts Covered
 - Data Types (int, float, str, bool)
 - Type Conversion
 - Arithmetic Operators
-- Basic Python Syntax"""
+- Basic Python Syntax""" 
