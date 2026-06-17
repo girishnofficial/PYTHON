@@ -1,4 +1,4 @@
-'''#output and input
+#output and input
 a="hello"
 print(a)
 
@@ -44,7 +44,8 @@ c"""
 
 #repeatations
 a=("KANNADIGA . ")
-print(a*100) # we can give more like 10 500 260 like any number we can give '''
+print(a*100) # we can give more like 10 500 260 like any number we can give
+
 
 #methods 
 
