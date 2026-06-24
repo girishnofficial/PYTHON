@@ -1,0 +1,9 @@
+UPDATED TEXT
+ new content.
+Old data will be deleted.
+This line is added later.
+Another new entry.
+
+
+
+#this is 10_class.py answers
